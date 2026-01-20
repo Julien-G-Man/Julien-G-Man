@@ -1,7 +1,7 @@
 # Julien Glory Manana
 
 Computer Science Student @ KNUST  
-Aspiring Backend Engineer + AI Engineer  
+Aspiring Backend + AI Engineer  
 
 I leanring to build backend systems and AI-powered products, with a focus on scalability, real-world problem solving, and applied AI.
 
@@ -19,9 +19,15 @@ I leanring to build backend systems and AI-powered products, with a focus on sca
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+
 ### AI & LLM Work
 - Chatbots using LLM APIs  
-- Custom keyword-based RAG systems  
+- Custom keyword-based RAG systems
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0A0A0A?style=for-the-badge&logoColor=white)
+
 
 ### Databases & Deployment
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -30,6 +36,7 @@ I leanring to build backend systems and AI-powered products, with a focus on sca
 
 ### Dev Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
