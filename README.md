@@ -53,8 +53,8 @@ AI assistant and experimentation platform
 
 ## GitHub Stats
 
-![Julien's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Julien's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julien-G-Man&show_icons=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Julien-G-Man&layout=compact)
 
 ---
 
