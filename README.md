@@ -3,7 +3,7 @@
 Computer Science Student @ KNUST  
 Aspiring Backend + AI Engineer  
 
-I leanring to build backend systems and AI-powered products, with a focus on scalability, real-world problem solving, and applied AI.
+I'm learning to build backend systems and AI-powered products, with a focus on scalability, real-world problem solving, and applied AI.
 
 ---
 
