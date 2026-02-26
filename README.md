@@ -63,4 +63,4 @@ AI assistant and experimentation platform
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/julien-glory-manana  
 - Email: juliengmanana@gmail.com
-- https://juliengmanana.vercel.app
+- Learn more about me: https://juliengmanana.vercel.app
