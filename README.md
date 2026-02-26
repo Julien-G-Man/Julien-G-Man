@@ -59,6 +59,8 @@ AI assistant and experimentation platform
 *(Other projects available in repositories)*
 
 ---
+## Learn more about me
+🔗 https://juliengmanana.vercel.app
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/julien-glory-manana  
