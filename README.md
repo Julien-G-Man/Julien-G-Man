@@ -49,7 +49,7 @@ I'm learning to build backend systems and AI-powered products, with a focus on s
 ### Lamla AI  
 AI-powered exam revision assistant  
 **Stack:** Django, PostgreSQL, AI integration (Azure OpenAI) 
-🔗 https://lamla-ai.onrender.com
+🔗 https://lamla-ai.vercel.app
 
 ### Tena AI  
 AI assistant and experimentation platform  
@@ -63,4 +63,4 @@ AI assistant and experimentation platform
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/julien-glory-manana  
 - Email: juliengmanana@gmail.com
-- Learn more about me: https://juliengmanana.vercel.app
+- Learn more about me: https://juliengmanana.netlify.app
