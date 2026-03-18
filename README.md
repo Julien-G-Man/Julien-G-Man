@@ -2,7 +2,7 @@
 
 > **Computer Science Student @ KNUST** | Backend + AI Engineer | Frontend Integration
 > 
-> Building scalable systems and AI-powered solutions | React & Next.js frontend integration | Problem solver | Open-minded learner
+> Building scalable systems and AI-powered solutions | Problem solver | Open-minded learner
 
 ---
 
