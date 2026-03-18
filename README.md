@@ -10,7 +10,7 @@
 
 I'm passionate about crafting robust backend architectures and harnessing AI to solve real-world problems. Currently diving deep into:
 - 🔧 **Backend Systems**: Designing scalable APIs and microservices
-- 🤖 **Applied AI**: Integrating LLMs, RAG systems, and intelligent automation
+- 🤖 **Applied AI**: Integrating LLMs, and intelligent systems
 - 📊 **Data-Driven Solutions**: Building systems that learn and adapt
 
 ---
@@ -34,8 +34,8 @@ I'm passionate about crafting robust backend architectures and harnessing AI to 
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-0A0A0A?style=for-the-badge&logoColor=white)
 
 **What I Build With:**
-- 🗄️ **Databases**: PostgreSQL, MongoDB
-- ☁️ **Deployment**: Vercel, Render, Azure
+- 🗄️ **Databases**: PostgreSQL, SQL Server
+- ☁️ **Deployment**: Vercel, Render, Netlify
 - 🛠️ **Tools**: VS Code, CLion, IntelliJ IDEA, Cursor, Git
 
 ---
@@ -43,9 +43,8 @@ I'm passionate about crafting robust backend architectures and harnessing AI to 
 ## 🏆 What I'm Working On
 
 **AI-Powered Products & Systems:**
-- 🎓 Exam revision assistants with intelligent RAG
+- 🎓 Exam revision assistants with minimal intelligent RAG
 - 💬 LLM-integrated chatbots & platforms
-- 🔍 Custom retrieval-augmented generation systems
 - 🚀 Production-grade backend APIs
 
 > **Explore my work** → Check out my [repositories](https://github.com/Julien-G-Man?tab=repositories) to see live projects!
