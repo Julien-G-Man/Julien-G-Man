@@ -1,8 +1,8 @@
 # 🚀 Julien Glory Manana
 
-> **Computer Science Student @ KNUST** | Backend + AI Engineer in Progress
+> **Computer Science Student @ KNUST** | Backend + AI Engineer | Frontend Integration
 > 
-> Building scalable systems and AI-powered solutions | Problem solver | Open-minded learner
+> Building scalable systems and AI-powered solutions | React & Next.js frontend integration | Problem solver | Open-minded learner
 
 ---
 
@@ -26,6 +26,10 @@ I'm passionate about crafting robust backend architectures and harnessing AI to 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Frontend Integration
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### AI & LLM Platforms
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
