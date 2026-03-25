@@ -1,17 +1,22 @@
-# 🚀 Julien Glory Manana
-> **Computer Science Student @ KNUST** | Backend + AI Engineer | Frontend Integration
-> 
-> Building scalable systems and AI-powered solutions | Problem solver | Open-minded learner
+<div align="center">
+
+# Julien Glory Manana
+
+**Computer Science Student @ KNUST** · Backend Engineer · AI Integration
+
+*Building scalable systems and AI-powered products — one commit at a time.*
+
+</div>
 
 ---
 
-## 🎯 About Me
+## About Me
 
-I'm passionate about crafting robust backend architectures and harnessing AI to solve real-world problems. Currently diving deep into:
+I'm focused on building robust backend architectures and integrating AI to solve real-world problems. Currently going deep on:
 
-- 🔧 **Backend Systems**: Designing scalable APIs and microservices
-- 🤖 **Applied AI**: Integrating LLMs, and intelligent systems
-- 📊 **Data-Driven Solutions**: Building systems that learn and adapt
+- 🔧 **Backend Systems** — Designing scalable APIs and service-oriented architectures
+- 🤖 **Applied AI** — Integrating LLMs and building intelligent, context-aware systems
+- 📊 **Data-Driven Products** — Systems that don't just run, but learn and adapt
 
 ---
 
@@ -60,18 +65,22 @@ I'm passionate about crafting robust backend architectures and harnessing AI to 
 
 **AI-Powered Products & Systems:**
 
-- 🎓 Exam revision assistants with minimal intelligent RAG
-- 💬 LLM-integrated chatbots & platforms
-- 🚀 Production-grade backend APIs
+- 🎓 Exam revision assistants with intelligent RAG pipelines
+- 💬 LLM-integrated chatbots and full-stack platforms
+- 🚀 Production-grade backend APIs built to scale
 
-> **Explore my work** → Check out my [repositories](https://github.com/Julien-G-Man?tab=repositories) to see live projects!
+> 📂 **Explore my work** → Browse my [repositories](https://github.com/Julien-G-Man?tab=repositories) to see it in action.
 
 ---
 
-## 📈 My Stats
+## 📈 GitHub Stats
+
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Julien-G-Man&show_icons=true&theme=dark&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Julien-G-Man&layout=compact&theme=dark)
+
+</div>
 
 ---
 
@@ -92,12 +101,12 @@ I'm passionate about crafting robust backend architectures and harnessing AI to 
 
 <div align="center">
 
-**Always open to discussions about:**
-- Backend architecture & scalability
-- AI/ML integration challenges
-- Open-source contributions
-- Collaboration opportunities
+**Always open to conversations about:**
 
-⭐ Feel free to check out my projects and reach out!
+Backend architecture · AI/ML integration · Open-source · Collaboration
+
+⭐ *If something catches your eye, feel free to reach out.*
 
 </div>
+
+
