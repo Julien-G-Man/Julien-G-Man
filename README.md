@@ -6,7 +6,7 @@
 
 ## About Me
 
-I build production-grade backend systems and integrate AI into products people actually use.
+I build backend systems and integrate AI into products people actually use.
 Currently a CS2 student at KNUST, shipping real software while studying.
 
 **🔧 Backend Systems** — Scalable APIs and service-oriented architectures that hold up under pressure
