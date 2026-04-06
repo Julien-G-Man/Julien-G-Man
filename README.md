@@ -70,8 +70,6 @@ Currently a CS2 student at KNUST, shipping real software while studying.
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Julien-G-Man&theme=dark&background=060810&border=1a2d5a&stroke=1a2d5a&ring=4f9eff&fire=1d6fff&currStreakLabel=4f9eff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Julien-G-Man&layout=compact&bg_color=060810&border_color=1a2d5a&title_color=4f9eff&text_color=c9d1d9&hide_border=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Julien-G-Man&theme=dark&background=060810&border=1a2d5a&ring=1d6fff&fire=4f9eff&currStreakLabel=4f9eff&sideLabels=7ab8ff&dates=7d8590)
