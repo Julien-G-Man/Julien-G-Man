@@ -60,9 +60,9 @@ Currently a CS2 student at KNUST, shipping real software while studying.
 
 **AI-powered products and backend systems:**
 
-- 🎓  Exam revision assistants with intelligent RAG pipelines
-- 💬  LLM-integrated chatbots and full-stack platforms
-- 🚀  Production-grade async backend APIs built to scale
+- 🎓  Exam revision assistants with intelligent RAG pipelines
+- 💬  LLM-integrated chatbots and full-stack platforms
+- 🚀  Production-grade async backend APIs built to scale
 
 > 📂 **Browse my [repositories](https://github.com/Julien-G-Man?tab=repositories) to see it in action**
 
@@ -70,11 +70,60 @@ Currently a CS2 student at KNUST, shipping real software while studying.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Julien-G-Man&show_icons=true&count_private=true&rank_icon=github&bg_color=060810&border_color=1a2d5a&title_color=4f9eff&icon_color=1d6fff&text_color=c9d1d9)
+<div align="center">
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Julien-G-Man&theme=github_dark)
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Julien-G-Man&show_icons=true&count_private=true&rank_icon=github&bg_color=060810&border_color=1a2d5a&title_color=4f9eff&icon_color=1d6fff&text_color=c9d1d9" />
+
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Julien-G-Man&layout=compact&langs_count=8&bg_color=060810&border_color=1a2d5a&title_color=4f9eff&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Julien-G-Man&theme=dark&background=060810&border=1a2d5a&ring=1d6fff&fire=4f9eff&currStreakLabel=4f9eff&sideLabels=7ab8ff&dates=7d8590)
+
+</div>
+
+-----
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Julien-G-Man&bg_color=060810&color=4f9eff&line=1d6fff&point=7ab8ff&area=true&area_color=1d6fff&border_color=1a2d5a&hide_border=false&custom_title=Contribution%20Activity" />
+
+</div>
+
+-----
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Julien-G-Man/Julien-G-Man/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Julien-G-Man/Julien-G-Man/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Julien-G-Man/Julien-G-Man/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+-----
+
+## 📋 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Julien-G-Man&theme=github_dark" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Julien-G-Man&theme=github_dark&utcOffset=0" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Julien-G-Man&theme=github_dark" />
+
+</div>
 
 -----
 
@@ -87,6 +136,6 @@ Currently a CS2 student at KNUST, shipping real software while studying.
 
 -----
 
-<sub>Always open to discussions about **backend architecture** · **AI integration** · **open-source** · **collaboration**  ⭐</sub>
+<sub>Always open to discussions about **backend architecture** · **AI integration** · **open-source** · **collaboration**  ⭐</sub>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1d6fff,100:060810&height=90&section=footer)
