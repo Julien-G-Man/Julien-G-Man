@@ -83,39 +83,16 @@ I usually build in a simple order: language, backend, AI layer, frontend integra
 
 **Workflow**
 
-<table>
-  <tr>
-    <td align="center">
-      <img alt="VS Code" width="32" height="32" src="https://cdn.brandfetch.io/idIkI_7uw6/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1772471137681" />
-    </td>
-    <td align="center">
-      <img alt="IntelliJ IDEA" width="32" height="32" src="https://cdn.brandfetch.io/idslS6G2ss/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1772460709685" />
-    </td>
-    <td align="center">
-      <img alt="Cursor" width="32" height="32" src="https://cdn.brandfetch.io/ideKwS9dxx/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1770368804028" />
-    </td>
-    <td align="center">
-      <img alt="Codex" width="32" height="32" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex-color.png" />
-    </td>
-    <td align="center">
-      <img alt="GitHub Copilot" width="32" height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-copilot-white-icon.svg" />
-    </td>
-    <td align="center">
-      <img alt="Claude Code" width="32" height="32" src="https://cdn.brandfetch.io/idW5s392j1/w/338/h/338/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1738315794862" />
-    </td>
-  </tr>
-</table>
-
-**Essentials**
-
-[![Skills](https://skillicons.dev/icons?i=linux,githubactions,pytest&theme=dark&perline=8)](https://skillicons.dev)
-<table>
-  <tr>
-    <td align="center">
-      <img alt="Postman" width="32" height="32" src="https://cdn.brandfetch.io/idrVtxty7B/w/240/h/240/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1667906412376" />
-    </td>
-  </tr>
-</table>
+<div style="display:flex; flex-wrap:wrap; gap:14px; align-items:center;">
+  <img alt="IntelliJ IDEA" width="32" height="32" src="https://cdn.brandfetch.io/idslS6G2ss/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1772460709685" />
+  <img alt="VS Code" width="32" height="32" src="https://cdn.brandfetch.io/idIkI_7uw6/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1772471137681" />
+  <img alt="Codex" width="32" height="32" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex-color.png" />
+  <img alt="Cursor" width="32" height="32" src="https://cdn.brandfetch.io/ideKwS9dxx/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1770368804028" />
+  <img alt="GitHub" width="32" height="32" src="https://cdn.brandfetch.io/idZAyF9rlg/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1719469970995" />
+  <img alt="GitHub Copilot" width="32" height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-copilot-white-icon.svg" />
+  <img alt="Claude Code" width="32" height="32" src="https://cdn.brandfetch.io/idW5s392j1/w/338/h/338/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1738315794862" />
+  <img alt="Postman" width="32" height="32" src="https://cdn.brandfetch.io/idrVtxty7B/w/240/h/240/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1667906412376" />
+</div>
 
 **Currently Exploring**
 
