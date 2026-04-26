@@ -46,37 +46,20 @@ Currently building AI-enabled tools that solve real problems.
 <table>
   <tr>
     <td align="center">
-      <a href="https://lobehub.com/icons/openai" title="OpenAI">
-        <img alt="OpenAI" width="32" height="32" src="https://www.freelogovectors.net/wp-content/uploads/2023/09/chatgpt-logo-freelogovectors.net_.png" />
-      </a>
+      <img alt="OpenAI" width="32" height="32" src="https://www.freelogovectors.net/wp-content/uploads/2023/09/chatgpt-logo-freelogovectors.net_.png" />
     </td>
     <td align="center">
-      <a href="https://lobehub.com/icons/anthropic" title="Anthropic">
-        <img alt="Anthropic" width="32" height="32" src="https://cdn.brandfetch.io/idmJWF3N06/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1721803173482" />
-      </a>
+      <img alt="Anthropic" width="32" height="32" src="https://cdn.brandfetch.io/idmJWF3N06/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1721803173482" />
     </td>
     <td align="center">
-      <a href="https://lobehub.com/icons/gemini" title="Gemini">
-        <img alt="Gemini" width="32" height="32" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/gemini-color.png" />
-      </a>
+      <img alt="Gemini" width="32" height="32" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/gemini-color.png" />
     </td>
     <td align="center">
-      <a href="https://lobehub.com/icons/deepseek" title="DeepSeek">
-        <img alt="DeepSeek" width="32" height="32" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/deepseek-color.png" />
-      </a>
+      <img alt="DeepSeek" width="32" height="32" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/deepseek-color.png" />
     </td>
     <td align="center">
-      <a href="https://lobehub.com/icons/langchain" title="LangChain">
-        <img alt="LangChain" width="32" height="32" src="https://cdn.brandfetch.io/idzf7Sjo28/w/200/h/200/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1773104499079" />
-      </a>
+      <img alt="LangChain" width="32" height="32" src="https://cdn.brandfetch.io/idzf7Sjo28/w/200/h/200/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1773104499079" />
     </td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://lobehub.com/icons/openai">OpenAI</a></td>
-    <td align="center"><a href="https://lobehub.com/icons/anthropic">Anthropic</a></td>
-    <td align="center"><a href="https://lobehub.com/icons/gemini">Gemini</a></td>
-    <td align="center"><a href="https://lobehub.com/icons/deepseek">DeepSeek</a></td>
-    <td align="center"><a href="https://lobehub.com/icons/langchain">LangChain</a></td>
   </tr>
 </table>
 
