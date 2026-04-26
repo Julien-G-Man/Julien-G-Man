@@ -6,7 +6,7 @@
 
 -----
 
-## About Me
+## helloworld("print") :)
 
 I build backend systems and integrate AI into products people actually use.
 Currently a 2nd-year CS student at KNUST, shipping real software while studying.
@@ -83,16 +83,18 @@ I usually build in a simple order: language, backend, AI layer, frontend integra
 
 **Workflow**
 
-<div style="display:flex; flex-wrap:wrap; gap:14px; align-items:center;">
-  <img alt="IntelliJ IDEA" width="32" height="32" src="https://cdn.brandfetch.io/idslS6G2ss/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1772460709685" />
-  <img alt="VS Code" width="32" height="32" src="https://cdn.brandfetch.io/idIkI_7uw6/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1772471137681" />
-  <img alt="Codex" width="32" height="32" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex-color.png" />
-  <img alt="Cursor" width="32" height="32" src="https://cdn.brandfetch.io/ideKwS9dxx/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1770368804028" />
-  <img alt="GitHub" width="32" height="32" src="https://cdn.brandfetch.io/idZAyF9rlg/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1719469970995" />
-  <img alt="GitHub Copilot" width="32" height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-copilot-white-icon.svg" />
-  <img alt="Claude Code" width="32" height="32" src="https://cdn.brandfetch.io/idW5s392j1/w/338/h/338/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1738315794862" />
-  <img alt="Postman" width="32" height="32" src="https://cdn.brandfetch.io/idrVtxty7B/w/240/h/240/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1667906412376" />
-</div>
+<table>
+  <tr>
+    <td align="center"><img alt="IntelliJ IDEA" width="32" height="32" src="https://cdn.brandfetch.io/idslS6G2ss/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1772460709685" /></td>
+    <td align="center"><img alt="VS Code" width="32" height="32" src="https://cdn.brandfetch.io/idIkI_7uw6/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1772471137681" /></td>
+    <td align="center"><img alt="Codex" width="32" height="32" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex-color.png" /></td>
+    <td align="center"><img alt="Cursor" width="32" height="32" src="https://cdn.brandfetch.io/ideKwS9dxx/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1770368804028" /></td>
+    <td align="center"><img alt="GitHub" width="32" height="32" src="https://cdn.brandfetch.io/idZAyF9rlg/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1719469970995" /></td>
+    <td align="center"><img alt="GitHub Copilot" width="32" height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-copilot-white-icon.svg" /></td>
+    <td align="center"><img alt="Claude Code" width="32" height="32" src="https://cdn.brandfetch.io/idW5s392j1/w/338/h/338/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1738315794862" /></td>
+    <td align="center"><img alt="Postman" width="32" height="32" src="https://cdn.brandfetch.io/idrVtxty7B/w/240/h/240/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1667906412376" /></td>
+  </tr>
+</table>
 
 **Currently Exploring**
 
@@ -104,7 +106,7 @@ AI Engineering, RAG, Agents, MCP, LangGraph
 
 **AI-powered products and backend systems:**
 
-- 🎓 **[Lamla AI](https://github.com/Julien-G-Man/lamla-ai)** - full-stack study platform generating quizzes, flashcards & AI explanations from student notes (Django · FastAPI · OpenAI · Claude · DeepSeek · MCP · RAG · LangChain · agents)
+- 🎓 **[Lamla AI](https://github.com/Julien-G-Man/lamla-ai)** - study platform generating quizzes, flashcards & AI explanations from student notes (Django · FastAPI · OpenAI · Claude · DeepSeek · MCP · RAG · agents)
 - 🔍 **[ScholarAid](https://github.com/Julien-G-Man/ScholarAid)** - scholarship management platform: browse opportunities, get Claude-powered personalized essay assistance & feedback, and admin intake tools
 - 💊 **[VeriMed](https://github.com/Julien-G-Man/verimed)** - AI medicine authenticity risk assessment via OCR, barcode decoding & fuzzy matching against FDA data (FastAPI · Next.js · OpenCV)
 - 🤖 **[Tool-Augmented Chatbot](https://github.com/Julien-G-Man/tool-augmented-chatbot)** - LLM function-calling LLM that queries a real SQL Server database and searches documents using RAG to get accurate information.
