@@ -56,11 +56,6 @@ Currently building AI-enabled tools that solve real problems.
       </a>
     </td>
     <td align="center">
-      <a href="https://lobehub.com/icons/claude" title="Claude">
-        <img alt="Claude" width="32" height="32" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/claude-color.png" />
-      </a>
-    </td>
-    <td align="center">
       <a href="https://lobehub.com/icons/gemini" title="Gemini">
         <img alt="Gemini" width="32" height="32" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/gemini-color.png" />
       </a>
@@ -72,14 +67,13 @@ Currently building AI-enabled tools that solve real problems.
     </td>
     <td align="center">
       <a href="https://lobehub.com/icons/langchain" title="LangChain">
-        <img alt="LangChain" width="32" height="32" src="https://cdn.brandfetch.io/idzf7Sjo28/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1773104444367" />
+        <img alt="LangChain" width="32" height="32" src="https://cdn.brandfetch.io/idzf7Sjo28/w/200/h/200/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1773104499079" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center"><a href="https://lobehub.com/icons/openai">OpenAI</a></td>
     <td align="center"><a href="https://lobehub.com/icons/anthropic">Anthropic</a></td>
-    <td align="center"><a href="https://lobehub.com/icons/claude">Claude</a></td>
     <td align="center"><a href="https://lobehub.com/icons/gemini">Gemini</a></td>
     <td align="center"><a href="https://lobehub.com/icons/deepseek">DeepSeek</a></td>
     <td align="center"><a href="https://lobehub.com/icons/langchain">LangChain</a></td>
@@ -88,21 +82,7 @@ Currently building AI-enabled tools that solve real problems.
 
 **Currently Exploring**
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://lobehub.com/icons/mcp" title="MCP">
-        <img alt="MCP" width="32" height="32" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/mcp.png" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://lobehub.com/icons/langgraph" title="LangGraph">
-        <img alt="LangGraph" width="32" height="32" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langgraph.png" />
-      </a>
-    </td>
-    <td align="left"><strong>AI Engineering</strong>, <strong>RAG</strong>, <strong>Agents</strong></td>
-  </tr>
-</table>
+AI Engineering, RAG, Agents, MCP, LangGraph
 
 **Deployment**
 
@@ -111,7 +91,7 @@ Currently building AI-enabled tools that solve real problems.
   <tr>
     <td align="center">
       <a href="https://render.com" title="Render">
-        <img alt="Render" width="32" height="32" src="https://cdn.brandfetch.io/id8LeMTX5r/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" />
+        <img alt="Render" width="32" height="32" src="https://cdn.brandfetch.io/id8LeMTX5r/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1775457467498" />
       </a>
     </td>
   </tr>
@@ -124,7 +104,7 @@ Currently building AI-enabled tools that solve real problems.
   <tr>
     <td align="center">
       <a href="https://lobehub.com/icons/cursor" title="Cursor">
-        <img alt="Cursor" width="32" height="32" src="https://www.freelogovectors.net/wp-content/uploads/2025/06/cursor_logo-freelogovectors.net_.png" />
+        <img alt="Cursor" width="32" height="32" src="https://cdn.brandfetch.io/ideKwS9dxx/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1770368804028" />
       </a>
     </td>
     <td align="center">
