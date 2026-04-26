@@ -44,22 +44,22 @@ Currently building AI-enabled tools that solve real problems.
 **AI & LLM Platforms**
 
 <p>
-  <a href="https://openai.com" title="OpenAI" style="margin-right:10px;">
+  <a href="https://lobehub.com/icons/openai" title="OpenAI" style="margin-right:10px;">
     <img alt="OpenAI" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" />
   </a>
-  <a href="https://www.anthropic.com" title="Anthropic" style="margin-right:10px;">
+  <a href="https://lobehub.com/icons/anthropic" title="Anthropic" style="margin-right:10px;">
     <img alt="Anthropic" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/anthropic.png" />
   </a>
-  <a href="https://claude.ai" title="Claude" style="margin-right:10px;">
-    <img alt="Claude" width="28" height="28" src="https://play-lh.googleusercontent.com/4S1nfdKsH_1tJodkHrBHimqlCTE6qx6z22zpMyPaMc_Rlr1EdSFDI1I6UEVMnokG5zI=w480-h960-rw" />
+  <a href="https://lobehub.com/icons/claude" title="Claude" style="margin-right:10px;">
+    <img alt="Claude" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/claude-color.png" />
   </a>
-  <a href="https://gemini.google.com" title="Gemini" style="margin-right:10px;">
+  <a href="https://lobehub.com/icons/gemini" title="Gemini" style="margin-right:10px;">
     <img alt="Gemini" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/gemini-color.png" />
   </a>
-  <a href="https://www.deepseek.com" title="DeepSeek" style="margin-right:10px;">
+  <a href="https://lobehub.com/icons/deepseek" title="DeepSeek" style="margin-right:10px;">
     <img alt="DeepSeek" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/deepseek-color.png" />
   </a>
-  <a href="https://www.langchain.com" title="LangChain">
+  <a href="https://lobehub.com/icons/langchain" title="LangChain">
     <img alt="LangChain" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" />
   </a>
 </p>
@@ -67,10 +67,10 @@ Currently building AI-enabled tools that solve real problems.
 **Currently Exploring**
 
 <p>
-  <a href="https://modelcontextprotocol.io" title="MCP" style="margin-right:10px;">
+  <a href="https://lobehub.com/icons/mcp" title="MCP" style="margin-right:10px;">
     <img alt="MCP" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/mcp.png" />
   </a>
-  <a href="https://langchain.com/langgraph" title="LangGraph" style="margin-right:10px;">
+  <a href="https://lobehub.com/icons/langgraph" title="LangGraph" style="margin-right:10px;">
     <img alt="LangGraph" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langgraph.png" />
   </a>
   <strong>AI Engineering</strong> · <strong>RAG</strong> · <strong>Agents</strong>
@@ -85,17 +85,17 @@ Currently building AI-enabled tools that solve real problems.
 
 [![Skills](https://skillicons.dev/icons?i=vscode,clion,idea,git&theme=dark&perline=8)](https://skillicons.dev)
 <p>
-  <a href="https://cursor.com" title="Cursor" style="margin-right:10px;">
+  <a href="https://lobehub.com/icons/cursor" title="Cursor" style="margin-right:10px;">
     <img alt="Cursor" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/cursor.png" />
   </a>
-  <a href="https://openai.com/codex" title="Codex" style="margin-right:10px;">
+  <a href="https://lobehub.com/icons/codex" title="Codex" style="margin-right:10px;">
     <img alt="Codex" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex-color.png" />
   </a>
-  <a href="https://github.com/features/copilot" title="GitHub Copilot" style="margin-right:10px;">
+  <a href="https://lobehub.com/icons/githubcopilot" title="GitHub Copilot" style="margin-right:10px;">
     <img alt="GitHub Copilot" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/githubcopilot.png" />
   </a>
-  <a href="https://www.anthropic.com/claude-code" title="Claude Code">
-    <img alt="Claude Code" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/anthropic.png" />
+  <a href="https://lobehub.com/icons/claude" title="Claude Code">
+    <img alt="Claude Code" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/claude-color.png" />
   </a>
 </p>
 
