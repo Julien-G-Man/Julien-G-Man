@@ -85,66 +85,42 @@ Currently building AI-enabled tools that solve real problems.
 <table>
   <tr>
     <td align="center">
-      <a href="https://vercel.com" title="Vercel">
-        <img alt="Vercel" width="32" height="32" src="https://cdn.brandfetch.io/idDpCfN4VD/theme/light/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1759982735448" />
-      </a>
+      <img alt="Vercel" width="32" height="32" src="https://cdn.brandfetch.io/idDpCfN4VD/theme/light/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1759982735448" />
     </td>
     <td align="center">
-      <a href="https://www.netlify.com" title="Netlify">
-        <img alt="Netlify" width="32" height="32" src="https://cdn.brandfetch.io/idoW6GB9ca/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" />
-      </a>
+      <img alt="Netlify" width="32" height="32" src="https://cdn.brandfetch.io/idoW6GB9ca/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" />
+    </td>
+    <td align="center">
+      <img alt="Render" width="32" height="32" src="https://cdn.brandfetch.io/id8LeMTX5r/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1775457350907" />
     </td>
   </tr>
 </table>
 
-**Tools**
+**Dev Tools**
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://code.visualstudio.com/" title="VS Code">
-        <img alt="VS Code" width="32" height="32" src="https://cdn.brandfetch.io/idIkI_7uw6/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1772471137681" />
-      </a>
+      <img alt="VS Code" width="32" height="32" src="https://cdn.brandfetch.io/idIkI_7uw6/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1772471137681" />
     </td>
     <td align="center">
-      <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA">
-        <img alt="IntelliJ IDEA" width="32" height="32" src="https://cdn.brandfetch.io/idslS6G2ss/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1772460709685" />
-      </a>
+      <img alt="IntelliJ IDEA" width="32" height="32" src="https://cdn.brandfetch.io/idslS6G2ss/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1772460709685" />
     </td>
     <td align="center">
-      <a href="https://github.com" title="GitHub">
-        <img alt="GitHub" width="32" height="32" src="https://cdn.brandfetch.io/idZAyF9rlg/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1719469970995" />
-      </a>
+      <img alt="GitHub" width="32" height="32" src="https://cdn.brandfetch.io/idZAyF9rlg/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1719469970995" />
     </td>
     <td align="center">
-      <a href="https://lobehub.com/icons/cursor" title="Cursor">
-        <img alt="Cursor" width="32" height="32" src="https://cdn.brandfetch.io/ideKwS9dxx/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1770368804028" />
-      </a>
+      <img alt="Cursor" width="32" height="32" src="https://cdn.brandfetch.io/ideKwS9dxx/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1770368804028" />
     </td>
     <td align="center">
-      <a href="https://openai.com/codex" title="Codex">
-        <img alt="Codex" width="32" height="32" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex-color.png" />
-      </a>
+      <img alt="Codex" width="32" height="32" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex-color.png" />
     </td>
     <td align="center">
-      <a href="https://github.com/features/copilot" title="GitHub Copilot">
-        <img alt="GitHub Copilot" width="32" height="32" src="https://cdn.brandfetch.io/idZAyF9rlg/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1719469970995" />
-      </a>
+      <img alt="GitHub Copilot" width="32" height="32" src="https://cdn.brandfetch.io/idZAyF9rlg/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1719469970995" />
     </td>
     <td align="center">
-      <a href="https://www.anthropic.com/claude-code" title="Claude Code">
-        <img alt="Claude Code" width="32" height="32" src="https://cdn.brandfetch.io/idW5s392j1/w/338/h/338/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1738315794862" />
-      </a>
+      <img alt="Claude Code" width="32" height="32" src="https://cdn.brandfetch.io/idW5s392j1/w/338/h/338/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1738315794862" />
     </td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://code.visualstudio.com/">VS Code</a></td>
-    <td align="center"><a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a></td>
-    <td align="center"><a href="https://github.com">GitHub</a></td>
-    <td align="center"><a href="https://lobehub.com/icons/cursor">Cursor</a></td>
-    <td align="center"><a href="https://openai.com/codex">Codex</a></td>
-    <td align="center"><a href="https://github.com/features/copilot">GitHub Copilot</a></td>
-    <td align="center"><a href="https://www.anthropic.com/claude-code">Claude Code</a></td>
   </tr>
 </table>
 
