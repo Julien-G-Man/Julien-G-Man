@@ -43,11 +43,38 @@ Currently building AI-enabled tools that solve real problems.
 
 **AI & LLM Platforms**
 
-[OpenAI](https://openai.com) · [Anthropic](https://www.anthropic.com) · [Gemini](https://gemini.google.com) · [DeepSeek](https://www.deepseek.com) · [LangChain](https://www.langchain.com)
+<p>
+  <a href="https://openai.com" title="OpenAI" style="margin-right:10px;">
+    <img alt="OpenAI" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" />
+  </a>
+  <a href="https://www.anthropic.com" title="Anthropic" style="margin-right:10px;">
+    <img alt="Anthropic" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/anthropic.png" />
+  </a>
+  <a href="https://claude.ai" title="Claude" style="margin-right:10px;">
+    <img alt="Claude" width="28" height="28" src="https://play-lh.googleusercontent.com/4S1nfdKsH_1tJodkHrBHimqlCTE6qx6z22zpMyPaMc_Rlr1EdSFDI1I6UEVMnokG5zI=w480-h960-rw" />
+  </a>
+  <a href="https://gemini.google.com" title="Gemini" style="margin-right:10px;">
+    <img alt="Gemini" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/gemini-color.png" />
+  </a>
+  <a href="https://www.deepseek.com" title="DeepSeek" style="margin-right:10px;">
+    <img alt="DeepSeek" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/deepseek-color.png" />
+  </a>
+  <a href="https://www.langchain.com" title="LangChain">
+    <img alt="LangChain" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" />
+  </a>
+</p>
 
 **Currently Exploring**
 
-<p><strong>AI Engineering</strong> · <strong>RAG</strong> · <strong>MCP</strong> · <strong>Agents</strong></p>
+<p>
+  <a href="https://modelcontextprotocol.io" title="MCP" style="margin-right:10px;">
+    <img alt="MCP" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/mcp.png" />
+  </a>
+  <a href="https://langchain.com/langgraph" title="LangGraph" style="margin-right:10px;">
+    <img alt="LangGraph" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langgraph.png" />
+  </a>
+  <strong>AI Engineering</strong> · <strong>RAG</strong> · <strong>Agents</strong>
+</p>
 
 **Deployment**
 
@@ -57,7 +84,20 @@ Currently building AI-enabled tools that solve real problems.
 **Tools**
 
 [![Skills](https://skillicons.dev/icons?i=vscode,clion,idea,git&theme=dark&perline=8)](https://skillicons.dev)
-[Cursor](https://cursor.com) · [Codex](https://openai.com/codex) · [GitHub Copilot](https://github.com/features/copilot) · [Claude Code](https://www.anthropic.com/claude-code)
+<p>
+  <a href="https://cursor.com" title="Cursor" style="margin-right:10px;">
+    <img alt="Cursor" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/cursor.png" />
+  </a>
+  <a href="https://openai.com/codex" title="Codex" style="margin-right:10px;">
+    <img alt="Codex" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex-color.png" />
+  </a>
+  <a href="https://github.com/features/copilot" title="GitHub Copilot" style="margin-right:10px;">
+    <img alt="GitHub Copilot" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/githubcopilot.png" />
+  </a>
+  <a href="https://www.anthropic.com/claude-code" title="Claude Code">
+    <img alt="Claude Code" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/anthropic.png" />
+  </a>
+</p>
 
 -----
 
