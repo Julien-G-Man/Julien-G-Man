@@ -25,21 +25,15 @@ Currently building AI-enabled tools that solve real problems.
 
 ## 💻 Tech Stack
 
-**Languages**
+I usually build in a simple order: language, backend, AI layer, frontend integration, data and infrastructure, deployment, then the tools I live in every day.
+
+**Foundation**
 
 [![Skills](https://skillicons.dev/icons?i=python,cpp,java,js&theme=dark&perline=8)](https://skillicons.dev)
 
 **Backend & APIs**
 
 [![Skills](https://skillicons.dev/icons?i=django,fastapi,flask&theme=dark&perline=8)](https://skillicons.dev)
-
-**Frontend Integration**
-
-[![Skills](https://skillicons.dev/icons?i=react,nextjs&theme=dark&perline=8)](https://skillicons.dev)
-
-**Databases & Infra**
-
-[![Skills](https://skillicons.dev/icons?i=postgres,redis,docker&theme=dark&perline=8)](https://skillicons.dev)
 
 **AI & LLM Platforms**
 
@@ -63,6 +57,14 @@ Currently building AI-enabled tools that solve real problems.
   </tr>
 </table>
 
+**Frontend Integration**
+
+[![Skills](https://skillicons.dev/icons?i=react,nextjs&theme=dark&perline=8)](https://skillicons.dev)
+
+**Data & Infra**
+
+[![Skills](https://skillicons.dev/icons?i=postgres,redis,docker&theme=dark&perline=8)](https://skillicons.dev)
+
 **Deployment**
 
 <table>
@@ -74,12 +76,12 @@ Currently building AI-enabled tools that solve real problems.
       <img alt="Netlify" width="32" height="32" src="https://cdn.brandfetch.io/idoW6GB9ca/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" />
     </td>
     <td align="center">
-      <img alt="Render" width="32" height="32" src="https://cdn.brandfetch.io/id8LeMTX5r/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1775457350907" />
+      <img alt="Render" width="32" height="32" src="https://cdn.brandfetch.io/id8LeMTX5r/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1775457467498" />
     </td>
   </tr>
 </table>
 
-**Dev Tools**
+**Workflow**
 
 <table>
   <tr>
@@ -90,19 +92,27 @@ Currently building AI-enabled tools that solve real problems.
       <img alt="IntelliJ IDEA" width="32" height="32" src="https://cdn.brandfetch.io/idslS6G2ss/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1772460709685" />
     </td>
     <td align="center">
-      <img alt="GitHub" width="32" height="32" src="https://cdn.brandfetch.io/idZAyF9rlg/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1719469970995" />
-    </td>
-    <td align="center">
       <img alt="Cursor" width="32" height="32" src="https://cdn.brandfetch.io/ideKwS9dxx/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1770368804028" />
     </td>
     <td align="center">
       <img alt="Codex" width="32" height="32" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex-color.png" />
     </td>
     <td align="center">
-      <img alt="GitHub Copilot" width="32" height="32" src="https://cdn.brandfetch.io/idZAyF9rlg/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1719469970995" />
+      <img alt="GitHub Copilot" width="32" height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-copilot-white-icon.svg" />
     </td>
     <td align="center">
       <img alt="Claude Code" width="32" height="32" src="https://cdn.brandfetch.io/idW5s392j1/w/338/h/338/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1738315794862" />
+    </td>
+  </tr>
+</table>
+
+**Essentials**
+
+[![Skills](https://skillicons.dev/icons?i=linux,githubactions,pytest&theme=dark&perline=8)](https://skillicons.dev)
+<table>
+  <tr>
+    <td align="center">
+      <img alt="Postman" width="32" height="32" src="https://cdn.brandfetch.io/idrVtxty7B/w/240/h/240/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1667906412376" />
     </td>
   </tr>
 </table>
