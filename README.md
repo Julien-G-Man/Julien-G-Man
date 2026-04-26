@@ -43,76 +43,21 @@ Currently building AI-enabled tools that solve real problems.
 
 **AI & LLM Platforms**
 
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-  <span style="display:inline-flex; align-items:center; gap:8px; padding:8px 12px; border:1px solid #1a2d5a; background:#111827; border-radius:10px;">
-    <img alt="OpenAI" title="OpenAI" width="18" height="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg" style="filter:brightness(0) invert(1);" />
-    <span>OpenAI</span>
-  </span>
-  <span style="display:inline-flex; align-items:center; gap:8px; padding:8px 12px; border:1px solid #1a2d5a; background:#111827; border-radius:10px;">
-    <img alt="Claude" title="Claude" width="18" height="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/anthropic.svg" style="filter:brightness(0) invert(1);" />
-    <span>Claude</span>
-  </span>
-  <span style="display:inline-flex; align-items:center; gap:8px; padding:8px 12px; border:1px solid #1a2d5a; background:#111827; border-radius:10px;">
-    <img alt="Gemini" title="Gemini" width="18" height="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/google.svg" style="filter:brightness(0) invert(1);" />
-    <span>Gemini</span>
-  </span>
-  <span style="display:inline-flex; align-items:center; gap:8px; padding:8px 12px; border:1px solid #1a2d5a; background:#111827; border-radius:10px;">
-    <img alt="DeepSeek" title="DeepSeek" width="18" height="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/deepseek.svg" style="filter:brightness(0) invert(1);" />
-    <span>DeepSeek</span>
-  </span>
-  <span style="display:inline-flex; align-items:center; gap:8px; padding:8px 12px; border:1px solid #1a2d5a; background:#111827; border-radius:10px;">
-    <img alt="LangChain" title="LangChain" width="18" height="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/langchain.svg" style="filter:brightness(0) invert(1);" />
-    <span>LangChain</span>
-  </span>
-</div>
+[OpenAI](https://openai.com) · [Anthropic](https://www.anthropic.com) · [Gemini](https://gemini.google.com) · [DeepSeek](https://www.deepseek.com) · [LangChain](https://www.langchain.com)
 
 **Currently Exploring**
 
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-  <span style="display:inline-flex; align-items:center; gap:8px; padding:8px 12px; border:1px solid #1a2d5a; background:#0f172a; border-radius:10px;">
-    <span>AI Engineering</span>
-  </span>
-  <span style="display:inline-flex; align-items:center; gap:8px; padding:8px 12px; border:1px solid #1a2d5a; background:#0f172a; border-radius:10px;">
-    <span>RAG</span>
-  </span>
-  <span style="display:inline-flex; align-items:center; gap:8px; padding:8px 12px; border:1px solid #1a2d5a; background:#0f172a; border-radius:10px;">
-    <span>MCP</span>
-  </span>
-  <span style="display:inline-flex; align-items:center; gap:8px; padding:8px 12px; border:1px solid #1a2d5a; background:#0f172a; border-radius:10px;">
-    <span>Agents</span>
-  </span>
-</div>
+<p><strong>AI Engineering</strong> · <strong>RAG</strong> · <strong>MCP</strong> · <strong>Agents</strong></p>
 
 **Deployment**
 
 [![Skills](https://skillicons.dev/icons?i=vercel,netlify&theme=dark&perline=8)](https://skillicons.dev)
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-  <span style="display:inline-flex; align-items:center; gap:8px; padding:8px 12px; border:1px solid #1a2d5a; background:#111827; border-radius:10px;">
-    <span>Render</span>
-  </span>
-</div>
+[Render](https://render.com)
 
 **Tools**
 
 [![Skills](https://skillicons.dev/icons?i=vscode,clion,idea,git&theme=dark&perline=8)](https://skillicons.dev)
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-  <span style="display:inline-flex; align-items:center; gap:8px; padding:8px 12px; border:1px solid #1a2d5a; background:#111827; border-radius:10px;">
-    <img alt="Cursor" title="Cursor" width="18" height="18" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/cursor.svg" style="filter:brightness(0) invert(1);" />
-    <span>Cursor</span>
-  </span>
-  <span style="display:inline-flex; align-items:center; gap:8px; padding:8px 12px; border:1px solid #1a2d5a; background:#111827; border-radius:10px;">
-    <img alt="Codex" title="Codex" width="18" height="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg" style="filter:brightness(0) invert(1);" />
-    <span>Codex</span>
-  </span>
-  <span style="display:inline-flex; align-items:center; gap:8px; padding:8px 12px; border:1px solid #1a2d5a; background:#111827; border-radius:10px;">
-    <img alt="GitHub Copilot" title="GitHub Copilot" width="18" height="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/githubcopilot.svg" style="filter:brightness(0) invert(1);" />
-    <span>GitHub Copilot</span>
-  </span>
-  <span style="display:inline-flex; align-items:center; gap:8px; padding:8px 12px; border:1px solid #1a2d5a; background:#111827; border-radius:10px;">
-    <img alt="Claude Code" title="Claude Code" width="18" height="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/anthropic.svg" style="filter:brightness(0) invert(1);" />
-    <span>Claude Code</span>
-  </span>
-</div>
+[Cursor](https://cursor.com) · [Codex](https://openai.com/codex) · [GitHub Copilot](https://github.com/features/copilot) · [Claude Code](https://www.anthropic.com/claude-code)
 
 -----
 
