@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:060810,40:0d1f3c,100:1d6fff&height=180&section=header&text=Julien%20Glory%20Manana&fontSize=40&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Backend%20Engineer%20%C2%B7%20AI%20Integration%20%C2%B7%20CS%20%40%20KNUST&descSize=14&descAlignY=78&descColor=7ab8ff)
+﻿![header](https://capsule-render.vercel.app/api?type=waving&color=0:060810,40:0d1f3c,100:1d6fff&height=180&section=header&text=Julien%20Glory%20Manana&fontSize=40&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Backend%20Engineer%20%C2%B7%20AI%20Integration%20%C2%B7%20CS%20%40%20KNUST&descSize=14&descAlignY=78&descColor=7ab8ff)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=900&color=4F9EFF&width=560&lines=Building+scalable+backend+systems+%F0%9F%94%A7;Shipping+AI-powered+products+%F0%9F%A4%96;Exploring+AI+engineering%2C+RAG%2C+MCP%2C+LangChain%2C+LLMs+%26+agents;Always+building%2C+always+learning+%E2%9A%A1;From+Kumasi%2C+Ghana+%F0%9F%87%AC%F0%9F%87%AD)](https://git.io/typing-svg)
 
@@ -43,61 +43,113 @@ Currently building AI-enabled tools that solve real problems.
 
 **AI & LLM Platforms**
 
-<p>
-  <a href="https://lobehub.com/icons/openai" title="OpenAI" style="margin-right:10px;">
-    <img alt="OpenAI" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" />
-  </a>
-  <a href="https://lobehub.com/icons/anthropic" title="Anthropic" style="margin-right:10px;">
-    <img alt="Anthropic" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/anthropic.png" />
-  </a>
-  <a href="https://lobehub.com/icons/claude" title="Claude" style="margin-right:10px;">
-    <img alt="Claude" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/claude-color.png" />
-  </a>
-  <a href="https://lobehub.com/icons/gemini" title="Gemini" style="margin-right:10px;">
-    <img alt="Gemini" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/gemini-color.png" />
-  </a>
-  <a href="https://lobehub.com/icons/deepseek" title="DeepSeek" style="margin-right:10px;">
-    <img alt="DeepSeek" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/deepseek-color.png" />
-  </a>
-  <a href="https://lobehub.com/icons/langchain" title="LangChain">
-    <img alt="LangChain" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://lobehub.com/icons/openai" title="OpenAI">
+        <img alt="OpenAI" width="32" height="32" src="https://www.freelogovectors.net/wp-content/uploads/2023/09/chatgpt-logo-freelogovectors.net_.png" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://lobehub.com/icons/anthropic" title="Anthropic">
+        <img alt="Anthropic" width="32" height="32" src="https://cdn.brandfetch.io/idmJWF3N06/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1721803173482" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://lobehub.com/icons/claude" title="Claude">
+        <img alt="Claude" width="32" height="32" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/claude-color.png" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://lobehub.com/icons/gemini" title="Gemini">
+        <img alt="Gemini" width="32" height="32" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/gemini-color.png" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://lobehub.com/icons/deepseek" title="DeepSeek">
+        <img alt="DeepSeek" width="32" height="32" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/deepseek-color.png" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://lobehub.com/icons/langchain" title="LangChain">
+        <img alt="LangChain" width="32" height="32" src="https://cdn.brandfetch.io/idzf7Sjo28/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1773104444367" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://lobehub.com/icons/openai">OpenAI</a></td>
+    <td align="center"><a href="https://lobehub.com/icons/anthropic">Anthropic</a></td>
+    <td align="center"><a href="https://lobehub.com/icons/claude">Claude</a></td>
+    <td align="center"><a href="https://lobehub.com/icons/gemini">Gemini</a></td>
+    <td align="center"><a href="https://lobehub.com/icons/deepseek">DeepSeek</a></td>
+    <td align="center"><a href="https://lobehub.com/icons/langchain">LangChain</a></td>
+  </tr>
+</table>
 
 **Currently Exploring**
 
-<p>
-  <a href="https://lobehub.com/icons/mcp" title="MCP" style="margin-right:10px;">
-    <img alt="MCP" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/mcp.png" />
-  </a>
-  <a href="https://lobehub.com/icons/langgraph" title="LangGraph" style="margin-right:10px;">
-    <img alt="LangGraph" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langgraph.png" />
-  </a>
-  <strong>AI Engineering</strong> · <strong>RAG</strong> · <strong>Agents</strong>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://lobehub.com/icons/mcp" title="MCP">
+        <img alt="MCP" width="32" height="32" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/mcp.png" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://lobehub.com/icons/langgraph" title="LangGraph">
+        <img alt="LangGraph" width="32" height="32" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langgraph.png" />
+      </a>
+    </td>
+    <td align="left"><strong>AI Engineering</strong>, <strong>RAG</strong>, <strong>Agents</strong></td>
+  </tr>
+</table>
 
 **Deployment**
 
 [![Skills](https://skillicons.dev/icons?i=vercel,netlify&theme=dark&perline=8)](https://skillicons.dev)
-[Render](https://render.com)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://render.com" title="Render">
+        <img alt="Render" width="32" height="32" src="https://cdn.brandfetch.io/id8LeMTX5r/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 **Tools**
 
 [![Skills](https://skillicons.dev/icons?i=vscode,clion,idea,git&theme=dark&perline=8)](https://skillicons.dev)
-<p>
-  <a href="https://lobehub.com/icons/cursor" title="Cursor" style="margin-right:10px;">
-    <img alt="Cursor" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/cursor.png" />
-  </a>
-  <a href="https://lobehub.com/icons/codex" title="Codex" style="margin-right:10px;">
-    <img alt="Codex" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex-color.png" />
-  </a>
-  <a href="https://lobehub.com/icons/githubcopilot" title="GitHub Copilot" style="margin-right:10px;">
-    <img alt="GitHub Copilot" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/githubcopilot.png" />
-  </a>
-  <a href="https://lobehub.com/icons/claude" title="Claude Code">
-    <img alt="Claude Code" width="28" height="28" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/claude-color.png" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://lobehub.com/icons/cursor" title="Cursor">
+        <img alt="Cursor" width="32" height="32" src="https://www.freelogovectors.net/wp-content/uploads/2025/06/cursor_logo-freelogovectors.net_.png" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://lobehub.com/icons/codex" title="Codex">
+        <img alt="Codex" width="32" height="32" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex-color.png" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://lobehub.com/icons/githubcopilot" title="GitHub Copilot">
+        <img alt="GitHub Copilot" width="32" height="32" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/githubcopilot.png" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://lobehub.com/icons/claude" title="Claude Code">
+        <img alt="Claude Code" width="32" height="32" src="https://www.freelogovectors.net/wp-content/uploads/2025/06/claude-logo-freelogovectors.net_.png" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://lobehub.com/icons/cursor">Cursor</a></td>
+    <td align="center"><a href="https://lobehub.com/icons/codex">Codex</a></td>
+    <td align="center"><a href="https://lobehub.com/icons/githubcopilot">GitHub Copilot</a></td>
+    <td align="center"><a href="https://lobehub.com/icons/claude">Claude Code</a></td>
+  </tr>
+</table>
 
 -----
 
@@ -187,3 +239,4 @@ Currently building AI-enabled tools that solve real problems.
 <sub>Always open to discussions about **backend architecture** · **AI engineering** · **RAG** · **MCP** · **LangChain** · **LLMs** · **agents** · **open-source** · **collaboration** ⭐</sub>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1d6fff,100:060810&height=90&section=footer)
+
