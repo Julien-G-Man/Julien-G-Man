@@ -6,8 +6,9 @@
 
 -----
 
-## helloworld("print") :)
+## About Me
 
+helloworld("print") :) - Julien here.
 I build backend systems and integrate AI into products people actually use.
 Currently a 2nd-year CS student at KNUST, shipping real software while studying.
 
@@ -110,7 +111,7 @@ AI Engineering, RAG, Agents, MCP, LangGraph
 - 🔍 **[ScholarAid](https://github.com/Julien-G-Man/ScholarAid)** - scholarship management platform: browse opportunities, get Claude-powered personalized essay assistance & feedback, and admin intake tools
 - 💊 **[VeriMed](https://github.com/Julien-G-Man/verimed)** - AI medicine authenticity risk assessment via OCR, barcode decoding & fuzzy matching against FDA data (FastAPI · Next.js · OpenCV)
 - 🤖 **[Tool-Augmented Chatbot](https://github.com/Julien-G-Man/tool-augmented-chatbot)** - LLM function-calling LLM that queries a real SQL Server database and searches documents using RAG to get accurate information.
-- 🐍 **[Python Developer](https://github.com/Julien-G-Man/python-developer)** - growing collection of Python projects: DSA, ML, CV, LLM APIs, and more
+- 🐍 **[Python Developer](https://github.com/Julien-G-Man/python-developer)** - growing collection of Python projects from the start of my coding journey, plus the legendary `helloworld("print")` that started it all :)
 - 🧠 **[AI Engineering Journey](https://github.com/Julien-G-Man/ai-engineering)** - hands-on learning repo documenting my path through LLM fundamentals, RAG pipelines, agents, MCP, deployment, and LangChain
 
 > 📂 **Browse my [repositories](https://github.com/Julien-G-Man?tab=repositories) to see it in action**
