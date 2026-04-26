@@ -43,12 +43,14 @@ Currently building AI-enabled tools that solve real problems.
 
 **AI & LLM Platforms**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-0a0a0a?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-1a1a2e?style=flat-square&logo=anthropic&logoColor=4f9eff)
-![Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=flat-square&logo=google&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-0d1b2a?style=flat-square&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-111827?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+<div>
+  <img alt="OpenAI" title="OpenAI" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg" />
+  <img alt="Claude" title="Claude" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/anthropic.svg" />
+  <img alt="Gemini" title="Gemini" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/google.svg" />
+  <img alt="DeepSeek" title="DeepSeek" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/deepseek.svg" />
+  <img alt="LLMs" title="LLMs" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg" />
+  <img alt="LangChain" title="LangChain" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/langchain.svg" />
+</div>
 
 **Currently Exploring**
 
@@ -60,15 +62,17 @@ Currently building AI-enabled tools that solve real problems.
 **Deployment**
 
 [![Skills](https://skillicons.dev/icons?i=vercel,netlify&theme=dark&perline=8)](https://skillicons.dev)
-![Render](https://img.shields.io/badge/Render-0d1b2a?style=flat-square&logo=render&logoColor=4f9eff)
+<img alt="Render" title="Render" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/render.svg" />
 
 **Tools**
 
 [![Skills](https://skillicons.dev/icons?i=vscode,clion,idea,git&theme=dark&perline=8)](https://skillicons.dev)
-![Cursor](https://img.shields.io/badge/Cursor-0d1117?style=flat-square&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-111827?style=flat-square&logo=openai&logoColor=white)
-![GitHub%20Copilot](https://img.shields.io/badge/GitHub%20Copilot-0d1117?style=flat-square&logo=githubcopilot&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-1a1a2e?style=flat-square&logo=anthropic&logoColor=4f9eff)
+<div>
+  <img alt="Cursor" title="Cursor" height="28" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/cursor.svg" />
+  <img alt="Codex" title="Codex" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg" />
+  <img alt="GitHub Copilot" title="GitHub Copilot" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/githubcopilot.svg" />
+  <img alt="Claude Code" title="Claude Code" height="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/anthropic.svg" />
+</div>
 
 -----
 
@@ -79,8 +83,9 @@ Currently building AI-enabled tools that solve real problems.
 - 🎓 **[Lamla AI](https://github.com/Julien-G-Man/lamla-ai)** - full-stack study platform generating quizzes, flashcards & AI explanations from student notes (Django · FastAPI · OpenAI · Claude · DeepSeek · MCP · RAG · LangChain · agents)
 - 🔍 **[ScholarAid](https://github.com/Julien-G-Man/ScholarAid)** - scholarship management platform: browse opportunities, get Claude-powered personalized essay assistance & feedback, and admin intake tools
 - 💊 **[VeriMed](https://github.com/Julien-G-Man/verimed)** - AI medicine authenticity risk assessment via OCR, barcode decoding & fuzzy matching against FDA data (FastAPI · Next.js · OpenCV)
-- 🤖 **[Tool-Augmented Chatbot](https://github.com/Julien-G-Man/tool-augmented-chatbot)** - LLM function-calling agent that queries a real SQL Server database instead of hallucinating answers
+- 🤖 **[Tool-Augmented Chatbot](https://github.com/Julien-G-Man/tool-augmented-chatbot)** - LLM function-calling LLM that queries a real SQL Server database and searches documents using RAG to get accurate information.
 - 🐍 **[Python Developer](https://github.com/Julien-G-Man/python-developer)** - growing collection of Python projects: DSA, ML, CV, LLM APIs, and more
+- 🧠 **[AI Engineering Journey](https://github.com/Julien-G-Man/ai-engineering)** - hands-on learning repo documenting my path through LLM fundamentals, RAG pipelines, agents, MCP, deployment, and LangChain
 
 > 📂 **Browse my [repositories](https://github.com/Julien-G-Man?tab=repositories) to see it in action**
 
