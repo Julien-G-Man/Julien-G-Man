@@ -1,4 +1,4 @@
-﻿![header](https://capsule-render.vercel.app/api?type=waving&color=0:060810,40:0d1f3c,100:1d6fff&height=180&section=header&text=Julien%20Glory%20Manana&fontSize=40&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Backend%20Engineer%20%C2%B7%20AI%20Integration%20%C2%B7%20CS%20%40%20KNUST&descSize=14&descAlignY=78&descColor=7ab8ff)
+﻿![header](https://capsule-render.vercel.app/api?type=waving&color=0:060810,40:0d1f3c,100:1d6fff&height=180&section=header&text=Julien%20Glory%20Manana&fontSize=40&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Backend/AI%20Engineer%20%C2%B7%20%C2%B7%20CS%20%40%20KNUST&descSize=14&descAlignY=78&descColor=7ab8ff)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=900&color=4F9EFF&width=560&lines=Building+scalable+backend+systems+%F0%9F%94%A7;Shipping+AI-powered+products+%F0%9F%A4%96;Exploring+AI+engineering%2C+RAG%2C+MCP%2C+LangChain%2C+LLMs+%26+agents;Always+building%2C+always+learning+%E2%9A%A1;From+Kumasi%2C+Ghana+%F0%9F%87%AC%F0%9F%87%AD)](https://git.io/typing-svg)
 
@@ -8,7 +8,9 @@
 
 ## About Me
 
-helloworld("print") :) - Julien here.
+helloworld("print") :) 
+- Julien here.
+
 I build backend systems and integrate AI into products people actually use.
 Currently a 2nd-year CS student at KNUST, shipping real software while studying.
 
@@ -99,7 +101,7 @@ I usually build in a simple order: language, backend, AI layer, frontend integra
 
 **Currently Exploring**
 
-AI Engineering, RAG, Agents, MCP, LangGraph
+AI Engineering, RAG, Vector Databases, Agents, Machine Learning 
 
 -----
 
@@ -107,12 +109,14 @@ AI Engineering, RAG, Agents, MCP, LangGraph
 
 **AI-powered products and backend systems:**
 
-- 🎓 **[Lamla AI](https://github.com/Julien-G-Man/lamla-ai)** - study platform generating quizzes, flashcards & AI explanations from student notes (Django · FastAPI · OpenAI · Claude · DeepSeek · MCP · RAG · agents)
+- 🎓 **[Ocasia](https://github.com/Julien-G-Man/ocasia)** - personalized learning platform that helps you study smarter. Generate quizzes, flashcards, invite friends to a live multiplayer quiz battle (Clash) & get AI explanations from Socratis - our AI agent (Django · FastAPI Microservice · OpenAI · Claude · DeepSeek · RAG · agents)
 - 🔍 **[ScholarAid](https://github.com/Julien-G-Man/ScholarAid)** - scholarship management platform: browse opportunities, get Claude-powered personalized essay assistance & feedback, and admin intake tools
 - 💊 **[VeriMed](https://github.com/Julien-G-Man/verimed)** - AI medicine authenticity risk assessment via OCR, barcode decoding & fuzzy matching against FDA data (FastAPI · Next.js · OpenCV)
-- 🤖 **[Tool-Augmented Chatbot](https://github.com/Julien-G-Man/tool-augmented-chatbot)** - LLM function-calling LLM that queries a real SQL Server database and searches documents using RAG to get accurate information.
+- 🤖 **[SQL RAG Agent](https://github.com/Julien-G-Man/sql-rag-agent)** - function-calling LLM that queries a real SQL Server database and searches documents using RAG to get accurate information.
 - 🐍 **[Python Developer](https://github.com/Julien-G-Man/python-developer)** - growing collection of Python projects from the start of my coding journey, plus the legendary `helloworld("print")` that started it all :)
-- 🧠 **[AI Engineering Journey](https://github.com/Julien-G-Man/ai-engineering)** - hands-on learning repo documenting my path through LLM fundamentals, RAG pipelines, agents, MCP, deployment, and LangChain
+- 🧠 **[AI Engineering Journey](https://github.com/Julien-G-Man/ai-engineering)** - hands-on learning repo documenting my path through LLM fundamentals, RAG pipelines, agents, deployment, and LangChain
+- 🔧 **[Building Backend Systems](https://github.com/Julien-G-Man/building-backend-systems)** - structured learning repo for builders who want to learn backend engineering at the level of systems, not frameworks, with actual PDF resources to enhance learning. 
+Actual a personal curriculum I created for myself but made it available for anyone who might gain something from it
 
 > 📂 **Browse my [repositories](https://github.com/Julien-G-Man?tab=repositories) to see it in action**
 
@@ -186,6 +190,6 @@ AI Engineering, RAG, Agents, MCP, LangGraph
 
 -----
 
-<sub>Always open to discussions about **backend architecture** · **AI engineering** · **RAG** · **MCP** · **LangChain** · **LLMs** · **agents** · **open-source** · **collaboration** ⭐</sub>
+<sub>Always open to discussions about **backend architecture** · **AI engineering** · **RAG** · **LangChain** · **LLMs** · **agents** · **open-source** · **collaboration** ⭐</sub>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1d6fff,100:060810&height=90&section=footer)
