@@ -62,7 +62,7 @@ I usually build in a simple order: language, backend, AI layer, frontend integra
 
 [![Skills](https://skillicons.dev/icons?i=react,nextjs&theme=dark&perline=8)](https://skillicons.dev)
 
-**Data & Infra**
+**Data & Infra **
 
 [![Skills](https://skillicons.dev/icons?i=postgres,redis,docker&theme=dark&perline=8)](https://skillicons.dev)
 
